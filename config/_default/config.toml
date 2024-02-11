@@ -10,6 +10,7 @@ baseURL = "https://0x8c.org"
 [imaging]
 anchor = "Center"
 
+
 [taxonomies]
 tag = "tags"
 category = "categories"
