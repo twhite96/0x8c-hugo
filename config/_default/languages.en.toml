@@ -1,0 +1,18 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "0x8c"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+logo = "logo-clear.png"
+secondaryLogo = "logo-clear.png"
+
+[author]
+name = "tiff"
+links = [ { email = "gentle.job7737@fastmail.com" }, { github = "https://github.com/twhite96" }, { linkedin = "https://linkedin.com/in/tiffanyrwhite" }, { mastodon = "https://infosec.exchange/@tiff" }, { pgpkey = "https://www.0x8c.org/t_keys.asc" }, { rss = "https://0x8c.org/feed" }, { youtube = "https://www.youtube.com/@duvallhacks" } ]
+image = "author-pic.jpeg"
+bio = "Hi, my name is tiff. I am a former frontend developer pivoting to cybersecurity, focusing on red team, penetration testing, and risk assessment and mitigation. If you'd like to contact me using encryption, please use this fingerprint: 30E4CDB6EFF32A08"

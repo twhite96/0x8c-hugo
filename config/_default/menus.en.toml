@@ -1,0 +1,20 @@
+[[main]]
+name = "articles"
+pageRef = "posts"
+identifier = "WwckNRpSHM"
+weight = 9999
+
+[[main]]
+name = "reading list"
+pageRef = "reading-list"
+identifier = "miL6VyrCTd"
+weight = 9999
+
+[[main]]
+name = "archives"
+pageRef = "archives"
+identifier = "ZUAML9G4TT"
+weight = 9999
+
+[[footer]]
+none = "none"
