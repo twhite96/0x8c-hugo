@@ -22,23 +22,22 @@ Say you want to run multiple machines you want to destroy with malware, run amok
 
 
 
-:::tip 
+{{< alert icon="lightbulb" cardColor="lightyellow" iconColor="#FFBF00" textColor="#36454F" >}}
 **Helpful Links**: 
-[Proxmox with own domain. DNS, Cloudflare and SSL proper settings. : Proxmox](https://www.reddit.com/r/Proxmox/comments/ryd0ki/comment/hrod3er/)
+- [Proxmox with own domain. DNS, Cloudflare and SSL proper settings. : Proxmox](https://www.reddit.com/r/Proxmox/comments/ryd0ki/comment/hrod3er/)
+- [How to Passthrough a Disk in Proxmox in 2023 - WunderTech](https://www.wundertech.net/how-to-passthrough-a-disk-in-proxmox/)
+- [What is ZFS? Why are People Crazy About it?](https://itsfoss.com/what-is-zfs/)
+- [How to Virtualize Your Home Router / Firewall Using pfSense | Techno Tim](https://technotim.live/posts/proxmox-pfsense/)
+- [How to Install pfSense on Proxmox in 2023 - WunderTech](https://www.wundertech.net/how-to-install-pfsense-on-proxmox/)
+{{< /alert >}}
 
-[How to Passthrough a Disk in Proxmox in 2023 - WunderTech](https://www.wundertech.net/how-to-passthrough-a-disk-in-proxmox/)
-
-[What is ZFS? Why are People Crazy About it?](https://itsfoss.com/what-is-zfs/)
-
-[How to Virtualize Your Home Router / Firewall Using pfSense | Techno Tim](https://technotim.live/posts/proxmox-pfsense/)
-
-[How to Install pfSense on Proxmox in 2023 - WunderTech](https://www.wundertech.net/how-to-install-pfsense-on-proxmox/)
-:::
+<br>
 
 
+{{< alert icon="check" cardColor="#98FB98" iconColor="#0BDA51" textColor="" >}}
 **Bonus**: 
-
 Soon I'll be getting more into Proxy servers and why they're important. Here's a list of SOCKS5 proxies which is a highly recommended protocol.
-
 [SOCKS free proxy servers list, open Socks5 and Socks4 proxies](https://spys.one/en/socks-proxy-list/)
+{{< /alert >}}
+
 
