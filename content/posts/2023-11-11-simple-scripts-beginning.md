@@ -18,7 +18,8 @@ I enjoy watching the [TCM Security YouTube channel](https://www.youtube.com/@TCM
 The one video in particular stood out to me:
 
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/y7FRIEURJ34?si=IrHQPrqWPmljJP2R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{{< youtube id="y7FRIEURJ34" title="Top Cybersecurity Projects for Your Resume" >}}
+
 
 In it, The Cyber Mentor talks about having side projects to throw on your GitHub and as such, list on your resume.
 
@@ -30,8 +31,7 @@ Since I come from a software dev background, this felt like the right thing to d
 
 I worked with Python almost 10 years ago when I was learning to code. I enjoyed it, but the wave was frontend; the framework wars were brewing and I was caught up in the hype, such as this:
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/sxcRxZpUJWo?si=W3olS1W09JKqMGc7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+{{< youtube id="sxcRxZpUJWo" title="Get to Know Kent C. Dodds (Full Version)" >}}
 
 *No offense to Kent, but this is certianly one of the videos of all time*
 
@@ -59,6 +59,6 @@ There are bizarre errors I am not familiar with, however I am lucky to have a go
 You can find the script on my repo.
 
 
-[ddos-script, main branch](https://github.com/twhite96/ddos-script/tree/main)
+{{< github repo="twhite96/ddos-script" >}}
 
 [ddos-script at refactor branch](https://github.com/twhite96/ddos-script/tree/refactor/typer-cli)
