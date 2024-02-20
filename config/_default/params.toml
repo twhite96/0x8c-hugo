@@ -90,8 +90,8 @@ showViews = false
 showLikes = false
 showTableOfContents = true
 groupByYear = true
-cardView = false
-cardViewScreenWidth = false
+cardView = true
+cardViewScreenWidth = true
 
 [firebase]
 
