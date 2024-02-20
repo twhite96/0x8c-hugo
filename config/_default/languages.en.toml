@@ -10,6 +10,7 @@ rtl = false
 dateFormat = "2 January 2006"
 logo = "logo-clear.png"
 secondaryLogo = "logo-clear.png"
+description = "Hi, my name is tiff. I am a former frontend engineer pivoting to cybersecurity & malware analysis. i'm also passionate about home labs and devops."
 
 [author]
 name = "tiff"

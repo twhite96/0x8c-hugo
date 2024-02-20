@@ -1,6 +1,6 @@
 [[main]]
   name = "Work"
-  weight = 20
+  weight = 50
 
 [[main]]
 name = "Posts"
@@ -9,10 +9,9 @@ identifier = "WwckNRpSHM"
 weight = 10
 
 [[main]]
-name = "projects"
-parent = "Work"
+name = "Projects"
 pageRef = "projects"
-identifier = "ZUAML9G4TT"
+identifier = "work"
 weight = 20
 
 [[main]]
@@ -31,21 +30,21 @@ weight = 40
 name = "About"
 url = "https://about.0x8c.org"
 identifier = "aboutpage"
-weight = 50
+weight = 60
 
 [[main]]
 name = "HackTheBox Write-ups"
 parent = "Work"
 url = "https://htb-writeups.0x8c.org"
 identifier = "htbWriteups"
-weight = 20
+weight = 50
 
 [[main]]
 name = "Wiki"
 parent = "Work"
 url = "https://wiki.0x8c.org"
 identifier = "wiki"
-weight = 20
+weight = 50
 
 [[footer]]
 none = "none"

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>web on 0x8c</title>
+    <link>https://0x8c.org/tags/web/</link>
+    <description>Recent content in web on 0x8c</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 tiff</copyright>
+    <lastBuildDate>Mon, 29 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://0x8c.org/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Goin Diggin</title>
+      <link>https://0x8c.org/posts/2022-08-29-goin-digging/</link>
+      <pubDate>Mon, 29 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://0x8c.org/posts/2022-08-29-goin-digging/</guid>
+      <description>I have a few pseudo-technical friends with websites, both using a form of WordPress.</description>
+      
+    </item>
+    
+    <item>
+      <title>Form Submission Fun</title>
+      <link>https://0x8c.org/posts/2022-07-29-form-submission-fun/</link>
+      <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://0x8c.org/posts/2022-07-29-form-submission-fun/</guid>
+      <description>I signed up for a website that&amp;rsquo;s recently come out of beta after a long wait time.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

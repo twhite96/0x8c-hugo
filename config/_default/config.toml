@@ -16,6 +16,7 @@ tag = "tags"
 category = "categories"
 author = "authors"
 series = "series"
+projects = "projects"
 
 [sitemap]
 changefreq = "daily"

@@ -8,5 +8,35 @@
     <language>en</language>
     <copyright>© 2024 tiff</copyright>
     <atom:link href="https://0x8c.org/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://0x8c.org/projects/puppeteer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://0x8c.org/projects/puppeteer/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://0x8c.org/projects/simple-ddos-tool/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://0x8c.org/projects/simple-ddos-tool/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://0x8c.org/projects/simple-dns.scanner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://0x8c.org/projects/simple-dns.scanner/</guid>
+      <description></description>
+      
+    </item>
+    
   </channel>
 </rss>
