@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 tiff</copyright>
-    <lastBuildDate>Sun, 11 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://0x8c.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://0x8c.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Simple Scripts: Beginning</title>
       <link>https://0x8c.org/posts/2023-11-11-simple-scripts-beginning/</link>
@@ -16,6 +16,26 @@
       <guid>https://0x8c.org/posts/2023-11-11-simple-scripts-beginning/</guid>
       <description>I&amp;rsquo;m currently working through (and banging my head against) working with Python scripts to simulate pentesting techniques.</description>
       
+    </item>
+    
+    <item>
+      <title>Simple DNS Enumeration Tool</title>
+      <link>https://0x8c.org/projects/simple-dns-scanner/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://0x8c.org/projects/simple-dns-scanner/</guid>
+      <description>Description # A CLI tool iterate over a list of DNS records and print them to the console.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://0x8c.org/projects/simple-dns-scanner/featured.png" />
+    </item>
+    
+    <item>
+      <title>Simple DDoS Tool</title>
+      <link>https://0x8c.org/projects/simple-ddos-tool/</link>
+      <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://0x8c.org/projects/simple-ddos-tool/</guid>
+      <description>Description # A CLI tool to DDoS a target host (your own please) written in Python.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://0x8c.org/projects/simple-ddos-tool/featured.png" />
     </item>
     
     <item>
@@ -36,6 +56,16 @@
       <guid>https://0x8c.org/posts/2023-09-03-osint-challenge-dropping-wednesday/</guid>
       <description>Love a good challenge?</description>
       
+    </item>
+    
+    <item>
+      <title>Puppeteer scrape, v1</title>
+      <link>https://0x8c.org/projects/puppeteer/</link>
+      <pubDate>Sun, 27 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://0x8c.org/projects/puppeteer/</guid>
+      <description>Description # I wanted to learn more about web scraping and how to configure a proxy server to bypass any anti-scraping/anti-bot protections.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://0x8c.org/projects/puppeteer/featured.png" />
     </item>
     
     <item>
@@ -75,36 +105,6 @@
       
       <guid>https://0x8c.org/posts/2022-07-29-form-submission-fun/</guid>
       <description>I signed up for a website that&amp;rsquo;s recently come out of beta after a long wait time.</description>
-      
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://0x8c.org/projects/puppeteer/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://0x8c.org/projects/puppeteer/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://0x8c.org/projects/simple-ddos-tool/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://0x8c.org/projects/simple-ddos-tool/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://0x8c.org/projects/simple-dns.scanner/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://0x8c.org/projects/simple-dns.scanner/</guid>
-      <description></description>
       
     </item>
     
