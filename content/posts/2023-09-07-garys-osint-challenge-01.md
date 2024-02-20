@@ -11,7 +11,7 @@ The first entry in Gary's OSINT challenge was a photo and the caption, "Hello, N
 
 This was the image:
 
-![](/img/blog/goc-02.jpeg)
+![](/img/goc-02.jpeg)
 
 The next phase of the challenge was for me to look at different landmarks so that I could figure out *where* exactly in the Netherlands the photo was taken.
 
@@ -19,11 +19,11 @@ The next phase of the challenge was for me to look at different landmarks so tha
 
 I spotted a few different key items on the image, which you can see in the photo below.
 
-![](/img/blog/garys-osint-challenge-01.jpeg)
+![](/img/garys-osint-challenge-01.jpeg)
 
 ## Solution
 
 I threw the solution up on my *cybersecurity* YouTube channel.
 
-<iframe class="video" src="https://www.youtube-nocookie.com/embed/b-Y5LSEsgi0?si=VWAzO5qEbXdK76dQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+{{< youtube id="b-Y5LSEsgi0" title="Gary's Osint Challenge - 01" >}}
 
