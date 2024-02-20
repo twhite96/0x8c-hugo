@@ -4,8 +4,6 @@ description: "Learn about some of my projects."
 slug: "projects"
 tags: ["projects"]
 summary: "A list of my current and recently completed projects."
-cascade:
-  showReadingTime: false
 ---
 
 {{< lead >}}
