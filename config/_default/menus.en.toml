@@ -1,20 +1,51 @@
 [[main]]
-name = "articles"
+  name = "Work"
+  weight = 20
+
+[[main]]
+name = "Posts"
 pageRef = "posts"
 identifier = "WwckNRpSHM"
-weight = 9999
+weight = 10
 
 [[main]]
-name = "reading list"
+name = "projects"
+parent = "Work"
+pageRef = "projects"
+identifier = "ZUAML9G4TT"
+weight = 20
+
+[[main]]
+name = "Books"
 pageRef = "reading-list"
 identifier = "miL6VyrCTd"
-weight = 9999
+weight = 30
 
 [[main]]
-name = "archives"
+name = "Archives"
 pageRef = "archives"
 identifier = "ZUAML9G4TT"
-weight = 9999
+weight = 40
+
+[[main]]
+name = "About"
+url = "https://about.0x8c.org"
+identifier = "aboutpage"
+weight = 50
+
+[[main]]
+name = "HackTheBox Write-ups"
+parent = "Work"
+url = "https://htb-writeups.0x8c.org"
+identifier = "htbWriteups"
+weight = 20
+
+[[main]]
+name = "Wiki"
+parent = "Work"
+url = "https://wiki.0x8c.org"
+identifier = "wiki"
+weight = 20
 
 [[footer]]
 none = "none"

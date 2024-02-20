@@ -1,0 +1,107 @@
+:root {
+  --monospace-font: "RobotoMono", monospace;
+  --content-font: "Inter var", sans-serif;
+  --heading-font: "Figtree", sans-serif;
+}
+
+/* Increase the default font size */
+
+
+@supports not (font-variation-settings:normal) {
+  @font-face {
+    font-display: swap;
+    font-family: Figtree;
+    font-style: normal;
+    font-weight: 800;
+    src: local(""), url(/assets/fonts/figtree/figtree-extrabold.woff2) format("woff2")
+  }
+
+  @font-face {
+    font-display: swap;
+    font-family: Figtree;
+    font-style: normal;
+    font-weight: 600;
+    src: local(""), url(/assets/fonts/figtree/figtree-semibold.woff2) format("woff2")
+  }
+
+  @font-face {
+    font-display: swap;
+    font-family: Figtree;
+    font-style: normal;
+    font-weight: 500;
+    src: local(""), url(/assets/fonts/figtree/figtree-medium.woff2) format("woff2")
+  }
+
+  @font-face {
+    font-display: swap;
+    font-family: Figtree;
+    font-style: italic;
+    font-weight: 500;
+    src: local(""), url(/assets/fonts/figtree/figtree-mediumitalic.woff2) format("woff2")
+  }
+}
+
+@supports (font-variation-settings:normal) {
+  @font-face {
+    font-display: swap;
+    font-family: Figtree;
+    font-style: normal;
+    font-weight: 300 900;
+    src: url(/assets/fonts/figtree/figtree-variable[wght].woff2) format("woff2 supports variations"), url(/assets/fonts/figtree/figtree-variable[wght].woff2) format("woff2-variations")
+  }
+
+  @font-face {
+    font-display: swap;
+    font-family: Figtree;
+    font-style: italic;
+    font-weight: 300 900;
+    src: url(/assets/fonts/figtree/figtree-variable-italic[wght].woff2) format("woff2 supports variations"), url(/assets/fonts/figtree/figtree-variable-italic[wght].woff2) format("woff2-variations")
+  }
+}
+
+@font-face {
+  font-display: swap;
+  font-family: Redhat;
+  font-style: normal;
+  font-weight: 700;
+  src: local(""), url(/assets/fonts/redhat/red-hat-display-v7-latin-900.woff2) format("woff2")
+}
+
+@font-face {
+  font-display: swap;
+  font-family: RobotoMono;
+  font-style: normal;
+  font-weight: 400;
+  src: local(""), url(/assets/fonts/robotomono/robotomono-regular.woff2) format("woff2")
+}
+
+@font-face {
+  font-family: 'Inter var';
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: block;
+  src: url(/fonts/Inter-roman.latin.var.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'Inter var';
+  font-style: italic;
+  font-weight: 100 900;
+  font-display: block;
+  src: url(/fonts/Inter-italic.latin.var.woff2) format('woff2');
+  font-named-instance: 'Italic';
+}
+
+html {
+  font-size: 22pt;
+}
+
+p, ol, ul, li {
+  font-family: var(--content-font);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--heading-font);
+  font-weight: 700;
+}
+
