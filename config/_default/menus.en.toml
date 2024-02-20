@@ -48,7 +48,7 @@ weight = 60
 [[footer]]
 name = "Uses"
 pre = "code"
-url = "uses.tiff.tools"
+url = "http://uses.tiff.tools"
 
 [[footer]]
 name = "Notes"
