@@ -1,6 +1,5 @@
 ---
 title: "Projects"
-date: 2024-02-20
 description: "Learn about some of my projects."
 cascade:
   showReadingTime: false
