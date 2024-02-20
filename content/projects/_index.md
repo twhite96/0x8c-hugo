@@ -2,6 +2,7 @@
 title: "Projects"
 date: 2024-02-20
 description: "Learn about some of my projects."
-layout: taxonomy
+cascade:
+  showReadingTime: false
 ---
 This section contains all my current projects.
