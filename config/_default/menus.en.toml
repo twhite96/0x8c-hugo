@@ -1,6 +1,6 @@
 [[main]]
-  name = "Work"
-  weight = 50
+name = "Work"
+weight = 50
 
 [[main]]
 name = "Posts"
@@ -11,7 +11,7 @@ weight = 10
 [[main]]
 name = "Projects"
 pageRef = "projects"
-identifier = "work"
+identifier = "projects"
 weight = 20
 
 [[main]]
@@ -47,4 +47,26 @@ identifier = "wiki"
 weight = 50
 
 [[footer]]
-none = "none"
+name = "Uses"
+pre = "code"
+url = "uses.tiff.tools"
+
+[[footer]]
+name = "Notes"
+pre = "lightbulb"
+url = "https://notes.0x8c.org"
+
+[[footer]]
+name = "Mastodon"
+pre = "mastodon"
+url = "https://infosec.exchange/@tiff"
+
+[[footer]]
+name = "GitHub"
+pre = "github"
+url = "https://github.com/twhite96"
+
+[[footer]]
+name = "LinkedIn"
+pre = "linkedin"
+url = "https://linkedin.com/in/tiffanyrwhite"
