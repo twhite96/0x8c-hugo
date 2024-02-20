@@ -7,7 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 tiff</copyright>
-    <lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://0x8c.org/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://0x8c.org/projects/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
+ rel="self" type="application/rss+xml" />
     <item>
       <title>Simple DNS Enumeration Tool</title>
       <link>https://0x8c.org/projects/simple-dns-scanner/</link>
