@@ -34,7 +34,7 @@ identifier = "aboutpage"
 weight = 70
 
 [[main]]
-name = "Write-ups"
+name = "Writeups"
 url = "https://htb-writeups.0x8c.org"
 identifier = "htbWriteups"
 weight = 50
