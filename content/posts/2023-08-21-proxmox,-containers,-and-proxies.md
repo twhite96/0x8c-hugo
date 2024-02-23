@@ -1,11 +1,12 @@
 ---
 title: "Proxmox, Containers, and Proxies"
 date: 2023-08-21
-descirption: "Adventures in self-hosted"
+description: "Adventures in self-hosted"
+excerpt: "So what is Proxmox"
 tags: ["virtualization", "proxying"]
 ---
 
-## What is Proxmox?
+What is Proxmox?
 
 [Proxmox](https://www.proxmox.com/en/proxmox-ve) is a bit hard to setup and get right, but once it is up and done, it's a nice way to create a cluster of nodes, all sandboxed with their own networks, ready to go. 
 

@@ -93,11 +93,12 @@
 }
 
 html {
-  font-size: 22pt;
+  font-size: 18pt;
 }
 
 p, ol, ul, li {
   font-family: var(--content-font);
+  font-size: large;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -105,3 +106,12 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
 }
 
+
+
+/* .prose :where(p):not(:where([class~=not-prose], [class~=not-prose] *)) {
+  
+} */
+
+/* p {
+  margin-bottom: -23px !important;
+} */
