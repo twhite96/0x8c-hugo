@@ -4,6 +4,8 @@ date: 2024-03-17
 draft: false
 description: "Full lab setup"
 tags: ["pentest", "virtual lab"]
+series: ["Practical Web App Security and Testing"]
+series_order: 1
 ---
 
 In this post I will be writing about how we setup our pentest lab in a few VMs and Docker containers, with this post being about how to set it up on an M-series Mac.

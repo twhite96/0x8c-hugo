@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Virtual Lab on 0x8c</title>
-    <link>http://localhost:1313/tags/virtual-lab/</link>
-    <description>Recent content in Virtual Lab on 0x8c</description>
+    <title>Practical Web App Security and Testing on 0x8c</title>
+    <link>http://localhost:1313/series/practical-web-app-security-and-testing/</link>
+    <description>Recent content in Practical Web App Security and Testing on 0x8c</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 tiff</copyright>
-    <lastBuildDate>Sun, 17 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/virtual-lab/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/series/practical-web-app-security-and-testing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>TCM Security Practical Web App Security and Testing</title>
       <link>http://localhost:1313/posts/2024-03-18-tcm-security-courses/</link>
