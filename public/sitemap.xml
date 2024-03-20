@@ -3,91 +3,79 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://0x8c.org/</loc>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-03-17T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-03-17T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/posts/2024-03-18-tcm-security-courses/</loc>
+    <lastmod>2024-03-17T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/archives/</loc>
     <lastmod>2024-02-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://0x8c.org/archives/</loc>
-    <lastmod>2024-02-11T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://0x8c.org/posts/</loc>
+    <loc>http://localhost:1313/posts/2023-11-11-simple-scripts-beginning/</loc>
     <lastmod>2023-11-11T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://0x8c.org/posts/2023-11-11-simple-scripts-beginning/</loc>
-    <lastmod>2023-11-11T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://0x8c.org/projects/</loc>
+    <loc>http://localhost:1313/projects/</loc>
     <lastmod>2023-11-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://0x8c.org/projects/simple-dns-scanner/</loc>
-    <lastmod>2023-11-01T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://0x8c.org/projects/simple-ddos-tool/</loc>
-    <lastmod>2023-10-31T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://0x8c.org/posts/2023-09-07-garys-osint-challenge-01/</loc>
+    <loc>http://localhost:1313/posts/2023-09-07-garys-osint-challenge-01/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://0x8c.org/posts/2023-09-03-osint-challenge-dropping-wednesday/</loc>
+    <loc>http://localhost:1313/posts/2023-09-03-osint-challenge-dropping-wednesday/</loc>
     <lastmod>2023-09-07T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://0x8c.org/projects/puppeteer/</loc>
-    <lastmod>2023-08-27T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://0x8c.org/posts/2023-08-21-proxmox-containers-and-proxies/</loc>
+    <loc>http://localhost:1313/posts/2023-08-21-proxmox-containers-and-proxies/</loc>
     <lastmod>2023-08-21T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://0x8c.org/posts/2022-08-29-goin-digging/</loc>
+    <loc>http://localhost:1313/posts/2022-08-29-goin-digging/</loc>
     <lastmod>2022-08-29T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://0x8c.org/posts/2023-08-19-check-out-my-evergreen-notes/</loc>
+    <loc>http://localhost:1313/posts/2023-08-19-check-out-my-evergreen-notes/</loc>
     <lastmod>2022-08-19T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://0x8c.org/posts/2022-07-29-form-submission-fun/</loc>
+    <loc>http://localhost:1313/posts/2022-07-29-form-submission-fun/</loc>
     <lastmod>2022-07-29T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://0x8c.org/reading-list/</loc>
+    <loc>http://localhost:1313/reading-list/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

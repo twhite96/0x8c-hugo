@@ -93,12 +93,12 @@
 }
 
 html {
-  font-size: 18pt;
+  font-size: 20pt;
 }
 
 p, ol, ul, li {
   font-family: var(--content-font);
-  font-size: large;
+  font-size: larger;
 }
 
 h1, h2, h3, h4, h5, h6 {

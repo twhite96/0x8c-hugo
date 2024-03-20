@@ -46,17 +46,17 @@ identifier = "wiki"
 weight = 60
 
 [[footer]]
-name = "Uses"
-pre = "code"
-url = "http://uses.tiff.tools"
-
-[[footer]]
 name = "Notes"
 pre = "lightbulb"
 url = "https://notes.0x8c.org"
 
 [[footer]]
-name = "Mastodon"
+name = "Code Blog"
+pre = "code"
+url = "https://tiff.engineer"
+
+[[footer]]
+name= "Mastodon"
 pre = "mastodon"
 url = "https://infosec.exchange/@tiff"
 
@@ -66,6 +66,5 @@ pre = "github"
 url = "https://github.com/twhite96"
 
 [[footer]]
-name = "LinkedIn"
 pre = "linkedin"
 url = "https://linkedin.com/in/tiffanyrwhite"
