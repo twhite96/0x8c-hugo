@@ -1,6 +1,6 @@
 ---
 title: "Reading List"
-description: "Musings on the books and articles I am reading."
+description: "Musings on the books I am reading."
 cascade:
   showReadingTime: true
 ---

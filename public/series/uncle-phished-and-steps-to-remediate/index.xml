@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Uncle Phished and Steps to Remediate on 0x8c</title>
+    <link>http://localhost:1313/series/uncle-phished-and-steps-to-remediate/</link>
+    <description>Recent content in Uncle Phished and Steps to Remediate on 0x8c</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 tiff</copyright>
+    <lastBuildDate>Sun, 21 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/series/uncle-phished-and-steps-to-remediate/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>iOS Phishing and Malware in 2024</title>
+      <link>http://localhost:1313/posts/2024-04-21-ios-phishing-and-malware-in-2024/</link>
+      <pubDate>Sun, 21 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2024-04-21-ios-phishing-and-malware-in-2024/</guid>
+      <description>In this post I will be writing about how we setup our pentest lab in a few VMs and Docker containers, with this post being about how to set it up on an M-series Mac.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

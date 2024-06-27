@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Virtualization on 0x8c</title>
-    <link>http://localhost:1313/tags/virtualization/</link>
+    <link>https://0x8c.org/tags/virtualization/</link>
     <description>Recent content in Virtualization on 0x8c</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 tiff</copyright>
-    <lastBuildDate>Mon, 21 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/virtualization/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://0x8c.org/tags/virtualization/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Proxmox, Containers, and Proxies</title>
-      <link>http://localhost:1313/posts/2023-08-21-proxmox-containers-and-proxies/</link>
+      <link>https://0x8c.org/posts/2023-08-21-proxmox-containers-and-proxies/</link>
       <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2023-08-21-proxmox-containers-and-proxies/</guid>
+      <guid>https://0x8c.org/posts/2023-08-21-proxmox-containers-and-proxies/</guid>
       <description>What is Proxmox?</description>
       
     </item>

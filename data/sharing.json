@@ -1,0 +1,22 @@
+{
+  "email": {
+    "icon": "email",
+    "title": "sharing.email",
+    "url": "mailto:?body=%s&subject=%s"
+  },
+  "linkedin": {
+    "icon": "linkedin",
+    "title": "sharing.linkedin",
+    "url": "https://www.linkedin.com/shareArticle?mini=true&url=%s&title=%s"
+  },
+  "whatsapp": {
+    "icon": "whatsapp",
+    "title": "sharing.whatsapp",
+    "url": "https://api.whatsapp.com/send?text=%s&resubmit=true&title=%s"
+  },
+  "telegram": {
+    "icon": "telegram",
+    "title": "sharing.telegram",
+    "url": "https://t.me/share/url?url=%s&resubmit=true&title=%s"
+  }
+}

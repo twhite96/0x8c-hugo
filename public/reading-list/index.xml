@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reading List on 0x8c</title>
-    <link>http://localhost:1313/reading-list/</link>
+    <link>https://0x8c.org/reading-list/</link>
     <description>Recent content in Reading List on 0x8c</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 tiff</copyright>
-    <atom:link href="http://localhost:1313/reading-list/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://0x8c.org/reading-list/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

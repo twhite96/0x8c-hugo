@@ -1,5 +1,5 @@
 [[main]]
-name = "Random"
+name = "Stuff I like"
 weight = 50
 
 [[main]]
@@ -16,10 +16,17 @@ weight = 20
 
 [[main]]
 name = "Books"
-parent = "Random"
+parent = "Stuff I like"
 pageRef = "reading-list"
 identifier = "miL6VyrCTd"
 weight = 50
+
+[[main]]
+name = "Articles"
+parent = "Stuff I like"
+pageRef = "article-list"
+identifier = "vndkdlgok"
+weight = 40
 
 # [[main]]
 # name = "Archives"
@@ -34,14 +41,8 @@ identifier = "aboutpage"
 weight = 70
 
 [[main]]
-name = "Writeups"
-url = "https://htb-writeups.0x8c.org"
-identifier = "htbWriteups"
-weight = 50
-
-[[main]]
-name = "Wiki"
-url = "https://wiki.0x8c.org"
+name = "Workbook"
+url = "https://workbook.0x8c.org"
 identifier = "wiki"
 weight = 60
 
@@ -66,5 +67,6 @@ pre = "github"
 url = "https://github.com/twhite96"
 
 [[footer]]
+name = "LinkedIn"
 pre = "linkedin"
-url = "https://linkedin.com/in/tiffanyrwhite"
+url = "https://linkedin.com/in/tiff0x8c"

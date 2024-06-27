@@ -23,7 +23,7 @@ showScrollToTop = true
 layout = "page"
 showRecent = true
 showRecentItems = 5
-showMoreLink = false
+showMoreLink = true
 showMoreLinkDest = "/posts"
 cardView = false
 cardViewScreenWidth = false
@@ -34,14 +34,15 @@ showDate = true
 showViews = false
 showLikes = false
 showDateOnlyInArticle = false
-showDateUpdated = false
+showDateUpdated = true
 showAuthor = true
 showHero = false
+sharingLinks = ["linkedin", "whatsapp", "telegram", "email"]
 layoutBackgroundBlur = true
 layoutBackgroundHeaderSpace = true
 showBreadcrumbs = true
-showDraftLabel = true
-showEdit = false
+showDraftLabel = false
+showEdit = true
 editAppendPath = true
 seriesOpened = false
 showHeadingAnchors = true
@@ -68,8 +69,8 @@ showTableOfContents = false
 showCards = false
 groupByYear = true
 cardView = false
-cardViewScreenWidth = false
-constrainItemsWidth = false
+cardViewScreenWidth = true
+constrainItemsWidth = true
 
 [sitemap]
 excludedKinds = [ "taxonomy", "term" ]
@@ -91,7 +92,7 @@ showLikes = false
 showTableOfContents = true
 groupByYear = true
 cardView = true
-cardViewScreenWidth = true
+cardViewScreenWidth = false
 
 [firebase]
 
