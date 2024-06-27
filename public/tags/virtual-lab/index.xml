@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Virtual Lab on 0x8c</title>
-    <link>http://localhost:1313/tags/virtual-lab/</link>
+    <link>https://0x8c.org/tags/virtual-lab/</link>
     <description>Recent content in Virtual Lab on 0x8c</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 tiff</copyright>
-    <lastBuildDate>Sun, 17 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/virtual-lab/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://0x8c.org/tags/virtual-lab/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>TCM Security Practical Web App Security and Testing</title>
-      <link>http://localhost:1313/posts/2024-03-18-tcm-security-courses/</link>
+      <link>https://0x8c.org/posts/2024-03-18-tcm-security-courses/</link>
       <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/2024-03-18-tcm-security-courses/</guid>
+      <guid>https://0x8c.org/posts/2024-03-18-tcm-security-courses/</guid>
       <description>In this post I will be writing about how we setup our pentest lab in a few VMs and Docker containers, with this post being about how to set it up on an M-series Mac.</description>
       
     </item>

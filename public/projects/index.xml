@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on 0x8c</title>
-    <link>http://localhost:1313/projects/</link>
+    <link>https://0x8c.org/projects/</link>
     <description>Recent content in Projects on 0x8c</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 tiff</copyright>
-    <lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://0x8c.org/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Simple DNS Enumeration Tool</title>
-      <link>http://localhost:1313/projects/simple-dns-scanner/</link>
+      <link>https://0x8c.org/projects/simple-dns-scanner/</link>
       <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/simple-dns-scanner/</guid>
+      <guid>https://0x8c.org/projects/simple-dns-scanner/</guid>
       <description>A CLI tool iterate over a list of DNS records and print them to the console.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/simple-dns-scanner/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://0x8c.org/projects/simple-dns-scanner/featured.png" />
     </item>
     
     <item>
       <title>Simple DDoS Tool</title>
-      <link>http://localhost:1313/projects/simple-ddos-tool/</link>
+      <link>https://0x8c.org/projects/simple-ddos-tool/</link>
       <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/simple-ddos-tool/</guid>
+      <guid>https://0x8c.org/projects/simple-ddos-tool/</guid>
       <description>I built it using Python and Python standard libraries.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/simple-ddos-tool/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://0x8c.org/projects/simple-ddos-tool/featured.png" />
     </item>
     
     <item>
       <title>Puppeteer scrape, v1</title>
-      <link>http://localhost:1313/projects/puppeteer/</link>
+      <link>https://0x8c.org/projects/puppeteer/</link>
       <pubDate>Sun, 27 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/puppeteer/</guid>
+      <guid>https://0x8c.org/projects/puppeteer/</guid>
       <description>I wanted to learn more about web scraping and how to configure a proxy server to bypass any anti-scraping/anti-bot protections.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/puppeteer/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://0x8c.org/projects/puppeteer/featured.png" />
     </item>
     
   </channel>
