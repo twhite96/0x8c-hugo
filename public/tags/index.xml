@@ -2,198 +2,198 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 0x8c</title>
-    <link>https://0x8c.org/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on 0x8c</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 tiff</copyright>
-    <lastBuildDate>Wed, 26 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://0x8c.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Logs</title>
-      <link>https://0x8c.org/tags/logs/</link>
+      <link>http://localhost:1313/tags/logs/</link>
       <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://0x8c.org/tags/logs/</guid>
+      <guid>http://localhost:1313/tags/logs/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Nmap</title>
-      <link>https://0x8c.org/tags/nmap/</link>
+      <link>http://localhost:1313/tags/nmap/</link>
       <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://0x8c.org/tags/nmap/</guid>
+      <guid>http://localhost:1313/tags/nmap/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Recon</title>
-      <link>https://0x8c.org/tags/recon/</link>
+      <link>http://localhost:1313/tags/recon/</link>
       <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://0x8c.org/tags/recon/</guid>
+      <guid>http://localhost:1313/tags/recon/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Smb</title>
-      <link>https://0x8c.org/tags/smb/</link>
+      <link>http://localhost:1313/tags/smb/</link>
       <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://0x8c.org/tags/smb/</guid>
+      <guid>http://localhost:1313/tags/smb/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Smb Enumeration</title>
-      <link>https://0x8c.org/tags/smb-enumeration/</link>
+      <link>http://localhost:1313/tags/smb-enumeration/</link>
       <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://0x8c.org/tags/smb-enumeration/</guid>
+      <guid>http://localhost:1313/tags/smb-enumeration/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Pentest</title>
-      <link>https://0x8c.org/tags/pentest/</link>
+      <link>http://localhost:1313/tags/pentest/</link>
       <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://0x8c.org/tags/pentest/</guid>
+      <guid>http://localhost:1313/tags/pentest/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Virtual Lab</title>
-      <link>https://0x8c.org/tags/virtual-lab/</link>
+      <link>http://localhost:1313/tags/virtual-lab/</link>
       <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://0x8c.org/tags/virtual-lab/</guid>
+      <guid>http://localhost:1313/tags/virtual-lab/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Ddos</title>
-      <link>https://0x8c.org/tags/ddos/</link>
+      <link>http://localhost:1313/tags/ddos/</link>
       <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://0x8c.org/tags/ddos/</guid>
+      <guid>http://localhost:1313/tags/ddos/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Python</title>
-      <link>https://0x8c.org/tags/python/</link>
+      <link>http://localhost:1313/tags/python/</link>
       <pubDate>Sat, 11 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://0x8c.org/tags/python/</guid>
+      <guid>http://localhost:1313/tags/python/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://0x8c.org/tags/projects/</link>
+      <link>http://localhost:1313/tags/projects/</link>
       <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://0x8c.org/tags/projects/</guid>
+      <guid>http://localhost:1313/tags/projects/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>External</title>
-      <link>https://0x8c.org/tags/external/</link>
+      <link>http://localhost:1313/tags/external/</link>
       <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://0x8c.org/tags/external/</guid>
+      <guid>http://localhost:1313/tags/external/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Osint</title>
-      <link>https://0x8c.org/tags/osint/</link>
+      <link>http://localhost:1313/tags/osint/</link>
       <pubDate>Thu, 07 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://0x8c.org/tags/osint/</guid>
+      <guid>http://localhost:1313/tags/osint/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Proxying</title>
-      <link>https://0x8c.org/tags/proxying/</link>
+      <link>http://localhost:1313/tags/proxying/</link>
       <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://0x8c.org/tags/proxying/</guid>
+      <guid>http://localhost:1313/tags/proxying/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Virtualization</title>
-      <link>https://0x8c.org/tags/virtualization/</link>
+      <link>http://localhost:1313/tags/virtualization/</link>
       <pubDate>Mon, 21 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://0x8c.org/tags/virtualization/</guid>
+      <guid>http://localhost:1313/tags/virtualization/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title> Web</title>
-      <link>https://0x8c.org/tags/-web/</link>
+      <link>http://localhost:1313/tags/-web/</link>
       <pubDate>Mon, 29 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://0x8c.org/tags/-web/</guid>
+      <guid>http://localhost:1313/tags/-web/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Security</title>
-      <link>https://0x8c.org/tags/security/</link>
+      <link>http://localhost:1313/tags/security/</link>
       <pubDate>Mon, 29 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://0x8c.org/tags/security/</guid>
+      <guid>http://localhost:1313/tags/security/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Notes</title>
-      <link>https://0x8c.org/tags/notes/</link>
+      <link>http://localhost:1313/tags/notes/</link>
       <pubDate>Fri, 19 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://0x8c.org/tags/notes/</guid>
+      <guid>http://localhost:1313/tags/notes/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Forms</title>
-      <link>https://0x8c.org/tags/forms/</link>
+      <link>http://localhost:1313/tags/forms/</link>
       <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://0x8c.org/tags/forms/</guid>
+      <guid>http://localhost:1313/tags/forms/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Web</title>
-      <link>https://0x8c.org/tags/web/</link>
+      <link>http://localhost:1313/tags/web/</link>
       <pubDate>Fri, 29 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://0x8c.org/tags/web/</guid>
+      <guid>http://localhost:1313/tags/web/</guid>
       <description></description>
       
     </item>

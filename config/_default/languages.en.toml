@@ -14,6 +14,6 @@ description = "Hi, my name is tiff. I am a former frontend engineer pivoting to 
 
 [author]
 name = "tiff"
-links = [ { email = "gentle.job7737@fastmail.com" }, { github = "https://github.com/twhite96" }, { linkedin = "https://linkedin.com/in/tiffanyrwhite" }, { mastodon = "https://infosec.exchange/@tiff" }, { pgpkey = "https://www.0x8c.org/t_keys.asc" }, { rss = "https://0x8c.org/feed" }, { youtube = "https://www.youtube.com/@duvallhacks" } ]
+links = [ { email = "gentle.job7737@fastmail.com" }, { github = "https://github.com/twhite96" }, { linkedin = "https://linkedin.com/in/0x8c" }, { mastodon = "https://infosec.exchange/@tiff" }, { pgpkey = "https://www.0x8c.org/t_keys.asc" }, { rss = "https://0x8c.org/feed" }, { youtube = "https://www.youtube.com/@duvallhacks" } ]
 image = "author-pic.jpeg"
 bio = "Hi, my name is tiff. I am a former frontend developer pivoting to cybersecurity."
