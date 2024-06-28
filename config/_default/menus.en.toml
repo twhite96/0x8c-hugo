@@ -18,13 +18,6 @@ identifier = "miL6VyrCTd"
 weight = 4
 
 [[main]]
-name = "Articles"
-parent = "Stuff I like"
-pageRef = "article-list"
-identifier = "vndkdlgok"
-weight = 3
-
-[[main]]
 name = "About"
 url = "https://about.0x8c.org"
 identifier = "aboutpage"
