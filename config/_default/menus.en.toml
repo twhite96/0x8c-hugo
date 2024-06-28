@@ -10,12 +10,6 @@ pageRef = "projects"
 identifier = "projects"
 weight = 2
 
-[[main]]
-name = "Books"
-parent = "Stuff I like"
-pageRef = "reading-list"
-identifier = "miL6VyrCTd"
-weight = 4
 
 [[main]]
 name = "About"
