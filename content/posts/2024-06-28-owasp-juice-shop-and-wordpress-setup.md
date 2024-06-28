@@ -9,7 +9,7 @@ tags: ["owasp juice shop", "wordpress"]
 Setting up personal labs outside of HackTheBox and TryHackMe is something I've wanted to do for a while.
 <!--truncate-->
 
-This very early early Friday night/morning, I decided to spin up an LXC of WordPress to pen test (LXCs in this case are very easy to deploy on Proxmox with [Proxmox Scripts](https://tteck.github.io/Proxmox/#turnkey-lxc-appliances) Turnkey Appliances) and [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/) in a Docker container.
+This very early early Friday night/morning, I decided to spin up an LXC of WordPress to pen test (LXCs in this case are very easy to deploy on Proxmox with [Proxmox Scripts Turnkey Appliances](https://tteck.github.io/Proxmox/#turnkey-lxc-appliances)) and [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/) in a Docker container.
 
 With the WordPress instance, I plan on playing around with it for brute force password attacks, SQL Injection, and all of that good stuff.
 
