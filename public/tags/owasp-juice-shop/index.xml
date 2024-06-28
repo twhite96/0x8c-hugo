@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Owasp Juice Shop on 0x8c</title>
+    <link>https://0x8c.org/tags/owasp-juice-shop/</link>
+    <description>Recent content in Owasp Juice Shop on 0x8c</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 tiff</copyright>
+    <lastBuildDate>Fri, 28 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://0x8c.org/tags/owasp-juice-shop/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OWASP Juice Shop and WordPress Setup</title>
+      <link>https://0x8c.org/posts/2024-06-28-owasp-juice-shop-and-wordpress-setup/</link>
+      <pubDate>Fri, 28 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://0x8c.org/posts/2024-06-28-owasp-juice-shop-and-wordpress-setup/</guid>
+      <description>Setting up personal labs outside of HackTheBox and TryHackMe is something I&amp;rsquo;ve wanted to do for a while.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

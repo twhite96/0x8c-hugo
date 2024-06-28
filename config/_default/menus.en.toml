@@ -1,63 +1,60 @@
 [[main]]
-name = "Stuff I like"
-weight = 50
-
-[[main]]
 name = "Posts"
 pageRef = "posts"
 identifier = "WwckNRpSHM"
-weight = 10
+weight = 1
 
 [[main]]
 name = "Projects"
 pageRef = "projects"
 identifier = "projects"
-weight = 20
+weight = 2
 
 [[main]]
 name = "Books"
 parent = "Stuff I like"
 pageRef = "reading-list"
 identifier = "miL6VyrCTd"
-weight = 50
+weight = 4
 
 [[main]]
 name = "Articles"
 parent = "Stuff I like"
 pageRef = "article-list"
 identifier = "vndkdlgok"
-weight = 40
-
-# [[main]]
-# name = "Archives"
-# pageRef = "archives"
-# identifier = "ZUAML9G4TT"
-# weight = 40
+weight = 3
 
 [[main]]
 name = "About"
 url = "https://about.0x8c.org"
 identifier = "aboutpage"
-weight = 70
+weight = 7
 
 [[main]]
 name = "Workbook"
 url = "https://workbook.0x8c.org"
 identifier = "wiki"
-weight = 60
+weight = 6
 
-[[footer]]
+[[main]]
+name = "Project Repos"
+url = "https://projects.0x8c.run/explore/repos"
+identifier = "rvr2HEF9J3"
+weight = 8
+
+[[main]]
 name = "Notes"
-pre = "lightbulb"
 url = "https://notes.0x8c.org"
+identifier = "4w8RnjvXbH"
+weight = 9999
 
 [[footer]]
 name = "Code Blog"
-pre = "code"
+pre = "codeberg"
 url = "https://tiff.engineer"
 
 [[footer]]
-name= "Mastodon"
+name = "Mastodon"
 pre = "mastodon"
 url = "https://infosec.exchange/@tiff"
 
@@ -70,3 +67,10 @@ url = "https://github.com/twhite96"
 name = "LinkedIn"
 pre = "linkedin"
 url = "https://linkedin.com/in/tiff0x8c"
+
+[[footer]]
+name = "Book Notes"
+url = "https://reading-notes.0x8c.mobi"
+pre = "edit"
+identifier = "9XTDOtOuC1"
+weight = 9999
