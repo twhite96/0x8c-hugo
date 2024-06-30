@@ -56,6 +56,7 @@ showWordCount = true
 showZenMode = false
 relatedContentLimit = "3"
 showRelatedContent = true
+showComments = true
 
 [list]
 showHero = false
